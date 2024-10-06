@@ -16,6 +16,6 @@ public class Main {
         double standardDeviation = descriptiveStatistics.getStandardDeviation();
 
         //System.out.println("ola");
-        //System.out.println("s");
+        //System.out.println("ds");
     }
 }
